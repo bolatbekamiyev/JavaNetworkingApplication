@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+.idea
+JavaNetworkingApplication.iml
 
 # Log file
 *.log
